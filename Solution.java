@@ -14,6 +14,6 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        System.out.println(myPow(12, 2));
+        System.out.println(myPow(12, 3));
     }
 }
