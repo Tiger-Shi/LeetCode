@@ -77,6 +77,6 @@ class Solution {
 # Pow(x,n)
 
 ``` python
-po
+p
 ```
 
