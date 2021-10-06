@@ -10,7 +10,7 @@ class Point {
         this.Y = Y;
     }
 
-    //附：如果XY是经纬度，请在上述结果上乘 9101160000.085981
+    //测试
     public static double CalculateArea(List<Point> points) {
         int count = points.size();
         double area0 = 0;
